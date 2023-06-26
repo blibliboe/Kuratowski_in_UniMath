@@ -4,7 +4,7 @@ Repository of the code within Kuratowski Finite Sets in the UniMath Library rese
 By Luuk van de Laar
 Tu delft
 
-# Research Project CSE3000
+# Research Project CSE3000 2023
 
 This repository links to the work of students for the Research project course of the CSE bachelor at TU Delft.
 
